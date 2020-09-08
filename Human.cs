@@ -6,7 +6,7 @@ namespace intro_to_vscode
         public int Age {get; set;}
         public string Name {get; set;}
         public string Sex {get; set;}
-        public double Again {get; set;}
+        
 
 
         public void HumanSay()
